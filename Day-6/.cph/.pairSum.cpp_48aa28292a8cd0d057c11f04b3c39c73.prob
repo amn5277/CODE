@@ -1,0 +1,1 @@
+{"name":"Local: pairSum","url":"/home/infoobjects/projects/Day-6/pairSum.cpp","tests":[{"id":1620615768855,"input":"5 4\n2 2 2 2 3","output":"0 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/infoobjects/projects/Day-6/pairSum.cpp","group":"local","local":true}
